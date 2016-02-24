@@ -1,2 +1,7 @@
 # hello-world
-Jessie's First Repository :3 
+
+Hi! 
+
+I'm Jessie and I'm bored with Photoshop. Ready to learn something new. 
+
+Let's go code! 
